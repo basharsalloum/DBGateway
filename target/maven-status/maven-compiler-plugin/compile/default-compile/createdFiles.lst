@@ -1,0 +1,5 @@
+infs\com\controllers\SampleController.class
+infs\com\domain\DbQueryRepository.class
+infs\com\DBGateway.class
+infs\com\domain\DbQueryService.class
+infs\com\domain\DbQuery.class
