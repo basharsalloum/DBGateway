@@ -1,6 +1,6 @@
 package infs.com.controllers;
-import infs.com.domain.DbQuery;
-import infs.com.domain.DbQueryService;
+import infs.com.domain.SQLServices.DbQuery;
+import infs.com.domain.SQLServices.DbQueryService;
 import org.slf4j.Logger;
 
 import org.slf4j.LoggerFactory;

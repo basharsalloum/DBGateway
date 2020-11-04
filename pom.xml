@@ -47,12 +47,9 @@
             <artifactId>spring-boot-starter-actuator</artifactId>
             <scope>test</scope>
         </dependency>
-
+        <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc14 -->
     </dependencies>
-
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
-
 </project>
